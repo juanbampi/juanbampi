@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Juan Bampi
 
-📊 Analista contable y financiero en transición al análisis de datos  
+📈 Analista contable y financiero en transición al análisis de datos  
 🎓 Contador Público | Licenciado en Sociología  
-💻 Apasionado por SQL, Power BI y la visualización de datos
+💻 Apasionado por SQL, visualización de datos, y estadística con Python
 
 ---
 
