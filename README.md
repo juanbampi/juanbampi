@@ -17,11 +17,10 @@
 ---
 
 🎓 Formación reciente:
-- Bootcamp de Análisis de Datos (en curso)
-Estoy cursando un bootcamp intensivo de 8 meses en análisis de datos, donde desarrollo habilidades clave en manejo de datos, business intelligence (Power BI, dashboarding y DAX intermedio), bases de datos SQL, análisis y estadística aplicada con Python (Pandas, NumPy, Matplotlib, Seaborn), y tecnologías de nube y ETL con Microsoft Azure. El programa incluye un proyecto integrador final que consolida todo lo aprendido mediante la aplicación práctica en un caso real de análisis de datos.
-- Contatech: Data Science para Económicas
-- Empowerdata: Fundamentos de Power BI
-- Coderhouse: Curso de SQL
+- **Bootcamp de Análisis de Datos** (en curso): Estoy cursando un bootcamp intensivo de 8 meses en análisis de datos, donde desarrollo habilidades clave en manejo de datos, business intelligence (Power BI, dashboarding y DAX intermedio), bases de datos SQL, análisis y estadística aplicada con Python (Pandas, NumPy, Matplotlib, Seaborn), y tecnologías de nube y ETL con Microsoft Azure. El programa incluye un proyecto integrador final que consolida todo lo aprendido mediante la aplicación práctica en un caso real de análisis de datos.
+- **Contatech:** Data Science para Económicas
+- **Empowerdata:** Fundamentos de Power BI
+- **Coderhouse**: Curso de SQL
 --- 
 
 ## 🚀 Proyecto destacado
