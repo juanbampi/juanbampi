@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juanbampi/juanbampi/main/github-banner.png" alt="Banner" />
+</p>
+
 # 👋 ¡Hola! Soy Juan Bampi
 
 📈 Analista contable y financiero en transición al análisis de datos  
