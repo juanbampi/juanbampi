@@ -54,7 +54,7 @@ Incluye modelado, stored procedures, triggers y visualizaciones.
 ### 📚 Currently Learning
 
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Processes-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0063B1?style=for-the-badge&logo=azure-data-factory&logoColor=white)
 
 ---
 
