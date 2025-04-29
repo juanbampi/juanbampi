@@ -41,8 +41,20 @@ Incluye modelado, stored procedures, triggers y visualizaciones.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-005BAB?style=for-the-badge&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-0033A0?style=for-the-badge&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Processes-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ---
 
