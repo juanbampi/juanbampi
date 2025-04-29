@@ -39,16 +39,7 @@ Incluye modelado, stored procedures, triggers y visualizaciones.
 
 ### 🚀 Tools & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-005B9F?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stata-006FCF?style=for-the-badge&logo=stata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=azuredatafactory&logoColor=white" />
-</p>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" width="40" height="40"/> </a> <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stata_logo.svg/2560px-Stata_logo.svg.png" alt="stata" width="70" height="25"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> </a> <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/SPSS_Logo.png" alt="spss" width="60" height="30"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/QGIS_logo_new.svg" alt="qgis" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure data factory" width="40" height="40"/> </a> </p>
 
 ---
 
